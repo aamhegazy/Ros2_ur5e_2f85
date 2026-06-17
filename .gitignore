@@ -1,0 +1,13 @@
+# colcon (in case anyone builds inside a package dir)
+build/
+install/
+log/
+
+# editor & OS junk
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+__pycache__/
+*.pyc
